@@ -1,0 +1,9 @@
+button{
+    margin-top: 20px;
+    padding: 15px 15px 15px 15px;
+    background-color: skyblue;
+    border-radius: 5px;
+    border-style: hidden;
+    color: whitesmoke;
+    size: 15px;
+}
